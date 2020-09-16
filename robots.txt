@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://www.fighthawk.com/sitemap.xml
+Sitemap: https://www.samurai.ar/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
